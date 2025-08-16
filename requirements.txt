@@ -1,4 +1,4 @@
 streamlit
 requests
-pydeck
 pandas
+pydeck
